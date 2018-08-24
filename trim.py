@@ -6,7 +6,7 @@ def trim(s):
 	return s
 	
 
-#addTest add
+#addTest add add
 # 测试:
 if trim('hello  ') != 'hello':
     print('测试失败!')
